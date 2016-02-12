@@ -14,7 +14,7 @@
 #ifndef SparkFun_APDS9960_H
 #define SparkFun_APDS9960_H
 
-#include <Application.h>
+#include <application.h>
 
 /* Debug */
 #define DEBUG                   0
